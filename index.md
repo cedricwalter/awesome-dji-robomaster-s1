@@ -1,5 +1,3 @@
-# Welcome to the unofficial awesome DJI RoboMaster S1 list
-
 Feel free to make a pull request or file an issue to contribute your knowledge here.
 
 <img src="https://user-images.githubusercontent.com/799578/59486980-c2312d80-8ead-11e9-8c77-45edfc76d423.jpg" >
