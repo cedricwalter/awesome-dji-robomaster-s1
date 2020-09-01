@@ -31,6 +31,7 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 
 ## Scratch
 * [Autonomous_Aiming_and_Firing](https://github.com/markind69/Vision_Marker_Chaser)
+* [Destroy tower game (Scratch+Python)](https://github.com/Apiphoom/RoboMaster-Destroy-tower-game)
 
 ## OpenCV
 * [Sentry](https://github.com/HelloWorldTeam/Robomaster2018-sentry-vision)
