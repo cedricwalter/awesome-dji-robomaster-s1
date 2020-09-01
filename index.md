@@ -22,6 +22,10 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 * [RoboMaster EP](https://forum.dji.com/forum.php?mod=forumdisplay&fid=129&filter=typeid&typeid=745)
 * [Robomaster TT](https://forum.dji.com/forum.php?mod=forumdisplay&fid=129)
 
+# Reddit
+* [RobomasterS1](https://www.reddit.com/r/RobomasterS1/)
+* [RoboMaster](https://www.reddit.com/r/ROBOMASTER/)
+
 # Sample Programs
 
 ## Scratch
@@ -29,6 +33,7 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 
 ## Python
 * [Collection of sample programs for the DJI Robomaster S1](https://git.bug-br.org.br/bga/robomasters1/src/master/sample_programs)
+* [Line detection](https://github.com/markind69/S1_Crossing_Line_Gaps)
 
 ## Jetson
 * [auto-shoot & rune detection tasks. Armor detection, rune detection, angle solving algorithm & drivers, serial communication](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource)
