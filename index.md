@@ -26,10 +26,16 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 * [RobomasterS1](https://www.reddit.com/r/RobomasterS1/)
 * [RoboMaster](https://www.reddit.com/r/ROBOMASTER/)
 
+# Hacking
+* [adding inputs/outputs](https://hackaday.io/project/167276-dji-robomaster-s1-hacks)
+
 # Sample Programs
 
 ## Scratch
 * [Autonomous_Aiming_and_Firing](https://github.com/markind69/Vision_Marker_Chaser)
+
+## OpenCV
+* [Sentry](https://github.com/HelloWorldTeam/Robomaster2018-sentry-vision)
 
 ## Python
 * [Collection of sample programs for the DJI Robomaster S1](https://git.bug-br.org.br/bga/robomasters1/src/master/sample_programs)
@@ -37,8 +43,14 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 
 ## Jetson
 * [auto-shoot & rune detection tasks. Armor detection, rune detection, angle solving algorithm & drivers, serial communication](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource)
+* [Robomaster](https://github.com/Beck-Sisyphus/RoboMasters_2016)
 
 ## SDK
+* [Official SDK](https://github.com/dji-sdk/RoboMaster-SDK)
+* [GoLang](https://github.com/LibiChai/robomaster-go)
 * [Web based remote control in javascript](https://github.com/Raghav-B/RoboMaster_S1_Web_Remote)
+
+# IDE
+* [Sublime plugin](https://github.com/sunjiawe/RoboMaster-Easy-S1)
 
 ## masters board
