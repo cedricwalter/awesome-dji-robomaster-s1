@@ -22,19 +22,18 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
 * [RoboMaster EP](https://forum.dji.com/forum.php?mod=forumdisplay&fid=129&filter=typeid&typeid=745)
 * [Robomaster TT](https://forum.dji.com/forum.php?mod=forumdisplay&fid=129)
 
-## Sample Programs
+# Sample Programs
 
-# Scratch
+## Scratch
 * [Autonomous_Aiming_and_Firing](https://github.com/markind69/Vision_Marker_Chaser)
 
-# Python
+## Python
 * [Collection of sample programs for the DJI Robomaster S1](https://git.bug-br.org.br/bga/robomasters1/src/master/sample_programs)
 
-# Jetson
+## Jetson
 * [auto-shoot & rune detection tasks. Armor detection, rune detection, angle solving algorithm & drivers, serial communication](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource)
 
-# SDK
+## SDK
 * [Web based remote control in javascript](https://github.com/Raghav-B/RoboMaster_S1_Web_Remote)
 
-
-masters board
+## masters board
